@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jinal7&label=Profile%20views&color=0e75b6&style=flat" alt="jinal7" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jinal7" alt="jinal7" /></a> </p>
-
 - 🔭 I’m currently working on **Company Portal**
 
 - 🌱 I’m currently learning **Javascript, Node js**
