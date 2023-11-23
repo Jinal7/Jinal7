@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jinal7&label=Profile%20views&color=0e75b6&style=flat" alt="jinal7" /> </p>
 
-- 🔭 I’m currently working on **Company Portal**
+- 🔭 I’m currently working on **E commerce**
 
-- 🌱 I’m currently learning **Javascript, Node js**
+- 🌱 I’m currently learning **React Js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jinal7?tab=repositories](https://github.com/Jinal7?tab=repositories)
 
